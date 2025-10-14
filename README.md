@@ -6,7 +6,7 @@ api接口写在main.py中
 输出一串路径点列表 [p1,p2,p3....]
 使用pyvista进行可视化
 
-![Image text]https://github.com/K1ng-fries/pathfind3d/blob/main/image%20(1).png
+![Image text](https://github.com/K1ng-fries/pathfind3d/blob/main/image%20(1).png?raw=true)
 
 代码特性：
 1.内置了一套转换倾斜摄影地图至三维栅格地图的方法，方便将现实世界栅格化寻路
